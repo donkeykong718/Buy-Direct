@@ -32,7 +32,7 @@ async function googleSearch(term, number) {
 
 Upload images of your wireframes to an image hosting site or add them to an assets folder in your repo and link them here with a description of each specific wireframe.
 
-> ![](Assets/BuyPass_Wireframe.png)
+> ![](BuyPass_Wireframe.png)
 > Made with excalidraw.com*
 
 ### MVP/PostMVP
